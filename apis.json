@@ -1,0 +1,805 @@
+{
+	"name": "API.nowuh",
+	"x-slug": "api-nowuh",
+	"description": "Today we have an amazing amount of data being collected. As more and more of us are connecting our every move to the internet, API.nowuh attempts to show how much data is currently being collected for an average person with a fair amount of IoT devices. This project serves two purposes, and neither are to make you afraid of the future. This first purpose is simply awareness; its always important to understand how much information on you is possibly out in the ether. The second is for whatever the heck you want. As I continue to build this out, more and more data points will become available. Youre free to do whatever you want with it, go nuts. Anyone is able to use V1 of the API but your IP address may be blocked if suspicious activity is detected.",
+	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+	"x-kinRank": "5",
+	"x-alexaRank": "",
+	"tags": "API.nowuh",
+	"created": "2018-08-22",
+	"modified": "2018-08-22",
+	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/apis.md",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-pounds-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-pounds-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-pounds-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-pounds-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-kilos-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-kilos-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-pounds-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-pounds-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-kilos-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-kilos-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/intakes-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/intakes-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "for-more-information-on-the-project-background-visit-api-noahkoch-comhttpsapi-noahkoch-comapi-base-httpsapi-noahkoch-comv1",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "Me, Self, Personal",
+			"properties": [
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activities-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessteps-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesdistance-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-quality-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiessleep-time-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/activitiesproductivity-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/transits-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurements-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-pounds-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-pounds-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-kilos-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/measurementsweight-in-kilos-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/intakes-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/intakes-get-openapi.md"
+				},
+				{
+					"type": "x-postman-collection",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/intakeswater-get-postman.md"
+				},
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/intakeswater-get-openapi.md"
+				}
+			]
+		},
+		{
+			"name": "api.noahkoch.com",
+			"x-api-slug": "api-noahkoch-com",
+			"description": "Today we have an amazing amount of data being collected. As more and more of us are connecting our every move to the internet, API.nowuh attempts to show how much data is currently being collected for an average person with a fair amount of IoT devices. This project serves two purposes, and neither are to make you afraid of the future. This first purpose is simply awareness; its always important to understand how much information on you is possibly out in the ether. The second is for whatever the heck you want. As I continue to build this out, more and more data points will become available. Youre free to do whatever you want with it, go nuts. Anyone is able to use V1 of the API but your IP address may be blocked if suspicious activity is detected.",
+			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/api-nowuh.png",
+			"humanURL": "http:\/\/api.noahkoch.com",
+			"baseURL": "https:\/\/api.noahkoch.com\/\/v1",
+			"tags": "API.nowuh",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-organizations\/api-nowuh\/master\/_listings\/api-nowuh\/openapi.md"
+				}
+			]
+		}
+	],
+	"x-common": [
+		{
+			"type": "x-api-gallery",
+			"url": "http:\/\/akeneo.api.gallery.streamdata.io"
+		},
+		{
+			"type": "x-website",
+			"url": "http:\/\/api.noahkoch.com"
+		}
+	],
+	"include": [
+	],
+	"maintainers": [
+		{
+			"FN": "Kin Lane",
+			"x-twitter": "apievangelist",
+			"email": "info@apievangelist.com"
+		}
+	]
+}
